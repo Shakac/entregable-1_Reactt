@@ -1,0 +1,52 @@
+.app {
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.card {
+    padding: 1.5em;
+    border-radius: 0.8em;
+    width: 100%;
+    max-width: 400px;
+    background-color: white;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+h1,h2,p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h1 {
+    position: absolute;
+    top: 3em;
+    font-size: 3rem;
+}
+
+h4 {
+    position: relative;
+    top: 14em;
+    color: white;
+    background-color: mediumturquoise;
+    padding: 0.8em;
+    border-radius: 2em;
+}
+
+button {
+    border-radius: 1em;
+    padding: 1em;
+    font-family: inherit;
+    cursor: pointer;
+    color:aqua;
+    background-color: black;
+}
+
+
