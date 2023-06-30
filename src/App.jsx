@@ -31,7 +31,7 @@ function App() {
             />
          <PhrasesCard phraseRandom={phraseRandom} />
          <h4>
-          Creado por Cristian Segura 🧑
+          Creado por Cindy Paez 👩🏽
          </h4>
       </div> 
   )
